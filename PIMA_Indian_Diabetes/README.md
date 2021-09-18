@@ -1,7 +1,7 @@
 #Data PreProcessing with Python
 Pre-Modeling: Data Preprocessing in Python
 
-Author: Kalpesh Patil, Data Scientist at Actofit Wearables
+Author: Kalpesh Patil, Data Scientist
 
 This repo contains several files:
 
